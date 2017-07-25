@@ -1,8 +1,8 @@
 # WebCrawler
 
-This is a web crawler to get amazon search result list.
+This is a web crawler to get Amazon search result list.
 
-Please replace certain content with your own legal proxy list and your own html selector. 
+Please replace certain content with your own legal proxy list and use your own html selector. I dont provide selector for each attribute of item here due to the frequent updated from Amazon.
 
 Use nGram_keyword.py to prepoccessing your keyword data.
 
