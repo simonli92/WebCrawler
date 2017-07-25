@@ -10,7 +10,7 @@ Use dedupe_result.py to remove the duplicate item from result file.
 
 ----------------------------------------
 
-Based on Java SK 1.8.
+Based on JDK 8.
 
 Dependencies includes:
 
